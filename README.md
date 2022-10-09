@@ -8,9 +8,8 @@ In this Session, I will demonstrate __How to Create Azure Active Directory (AAD)
 | --------- |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
 | Duration of My Demo = __55 Mins 42 Secs__ |
-
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
-| --------- |
+
 
 | __IMPORTANT NOTE:-__ |
 | --------- |
