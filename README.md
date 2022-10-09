@@ -42,10 +42,6 @@ The YAML Pipeline is tested on __WINDOWS BUILD AGENT__ Only!!!
 4. Azure Resource Manager Service Connection in Azure DevOps.
 
 
-| __CODE REPOSITORY:-__ |
-| --------- |
-| {% github arindam0310018/26-Aug-2022-DevOps__Create-AAD-Group %} |
-
 | __HOW DOES MY CODE PLACEHOLDER LOOKS LIKE:-__ |
 | --------- |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/plx83e6s22oyl9811s14.png) |
